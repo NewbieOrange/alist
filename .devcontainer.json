@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "NewbieOrange/alist-private": {
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
